@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#47AEDF</color>
+    <color name="colorPrimaryDark">#2AA3DB</color>
+    <color name="colorAccent">#B0D5E6</color>
+    <color name="titleColor">#6677a1</color>
+    <color name="gradientBottom">#ebebeb</color>
+    <color name="gradientTop">#fbfbfb</color>
+    <color name="descriptionColor">#747474</color>
+    <color name="colorGrey">#888484</color>
+    <color name="lightGrey">#D1CECE</color>
+    <color name="status_yellow">#CFAE39</color>
+    <color name="white">#ffffff</color>
+    <color name="component_border">#B6B6B6</color>
+    <color name="bg_app">#eeeeee</color>
+    <color name="link_blue">#0089ff</color>
+
+</resources>

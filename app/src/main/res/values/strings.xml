@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitHub Repository</string>
+    <string name="title_home">Repository</string>
+    <string name="title_repo">Repository</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="enter_comment">enter your comment</string>
+    <string name="permission_rationale">Stotage permission is needed</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+</resources>
